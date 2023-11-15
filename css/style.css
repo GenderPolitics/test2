@@ -443,7 +443,7 @@ button:focus {
         font-family: "Roboto", sans-serif;
         margin-right: 20px;
         position: relative; }
-        .banner_area .banner_inner .banner_content .page_link a:before {
+        .banner_area .banner_inner .page_link a:before {
           content: "-";
           position: absolute;
           right: -14px;
@@ -1415,19 +1415,19 @@ button:focus {
 @media (max-width: 767.98px) {
   .generic-banner .height {
     height: 400px; } }
-.generic-banner .generic-banner-content h2 {
+.generic-banner .generic- h2 {
   line-height: 1.2em;
   margin-bottom: 20px; }
 
 @media (max-width: 991.98px) {
-  .generic-banner .generic-banner-content h2 br {
+  .generic-banner .generic- h2 br {
     display: none; } }
-.generic-banner .generic-banner-content p {
+.generic-banner .generic- p {
   text-align: center;
   font-size: 16px; }
 
 @media (max-width: 991.98px) {
-  .generic-banner .generic-banner-content p br {
+  .generic-banner .generic- p br {
     display: none; } }
 .generic-content h1 {
   font-weight: 600; }
