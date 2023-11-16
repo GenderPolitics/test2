@@ -3006,7 +3006,7 @@ h6 {
   /* Footer Area css
   ============================================================================================ */
   .footer_area {
-    padding-top: 80px !important;
+    padding-top: 40px !important;
     padding-bottom: 80px !important;
     background-image: none !important;
     background-color: #fcf8ff; }
@@ -3187,7 +3187,7 @@ h6 {
   /* Footer Area css
   ============================================================================================ */
   .footer-area {
-    padding: 70px 0px; }
+    padding: 40px 0px; }
 
   .news_widget {
     padding-left: 0 !important; }
@@ -3253,12 +3253,12 @@ h6 {
     content: none; }
 
 .footer_area {
-  padding: 120px 0;
+  padding: 70px 0;
   position: relative; }
   .footer_area:before {
     content: '';
     position: absolute;
-    top: -200px;
+    top: -100px;
     left: 0px;
     right: 0px;
     bottom: 0px;
